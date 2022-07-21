@@ -1,0 +1,19 @@
+﻿*{
+    margin:0px;
+    padding:0px;
+}
+.row{
+    text-align: center;
+    margin:50px 0px;
+}
+
+#stdDropDown {
+    width: 300px;
+    font-size: large;
+    text-align:center;
+    color:darkslategray;
+    background-color:azure;
+}
+.toHide{
+    /*display: none;*/
+}
